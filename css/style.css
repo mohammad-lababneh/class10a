@@ -1,0 +1,64 @@
+main{
+    margin-left:200px;
+    margin-top: 200px;
+    width: 1000px;
+    height: auto;
+}
+#top {
+    margin-bottom: 70px;
+}
+#del {
+    padding-right: 850px;
+    float: right;
+font-size: x-large;
+font-style: italic;
+}
+#logo {
+    display: block;
+    padding-right:666px;
+    float: right;
+    position: relative;   
+ bottom:20px;
+ color: gray;
+
+  
+
+}
+#social1{
+    
+    float: right;
+    margin-right: 20px;
+position: relative;   
+ bottom:110px;
+}
+
+#social2 {
+    float: right;
+    position: relative;   
+ bottom:110px;
+}
+#choco {
+font-size: xx-large;
+font-weight: bold;
+}
+#dat {
+    color: gray;
+    margin-bottom: 20px;
+}
+#print {
+
+    color: gray;
+    float: right;
+    margin-bottom: 20px;
+    position: relative; 
+    bottom:40px;
+
+
+}
+#big {
+    /* width: 100px;
+    height: 100px; */
+}
+
+
+
