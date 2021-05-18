@@ -56,9 +56,86 @@ font-weight: bold;
 
 }
 #big {
-    /* width: 100px;
-    height: 100px; */
+    width: 1000px;
+    margin-bottom: 20px;
+
+}
+#p1{
+    margin-bottom: 20px;
+}
+#p2{
+    margin-bottom: 20px;
+}
+#p3{
+    margin-bottom: 20px;
+}
+#div2{
+    float: auto;
+    margin-left:450px;
+    position: relative; 
+    bottom: 110px;
+}
+#divArt{
+    background-image: url(https://raw.githubusercontent.com/LTUC/amman-irbid-201d24/main/class-10/lab-a/lab-assets/list-bg.png);
+
+    height: 150px;
+    margin-bottom: 20px; 
+}
+#h3{
+    color: rgb(78, 76, 76);
+    float: auto;
+    margin-left: 100px;
+    position: relative; 
+    bottom: 55px;
+    margin-bottom: 20px;
+
+
+}
+#p4{
+    color: rgb(161, 161, 161);
+    float: auto;
+    margin-left: 100px;
+    position: relative; 
+    bottom: 55px;
+
 }
 
+#p5{
+    color: rgb(161, 161, 161);
+    float: auto;
+    margin-left: 100px;
+    position: relative; 
+    bottom: 55px;
+}
+#button{
+float: right;
+position: relative; 
+bottom: 120px;
+right: 250px;
+height: 40px;
+width: 120px;
+background-color: rgb(211, 55, 55);
+color: ivory;
+}    
+#footerImg{
+    float: right;
+    position: relative;
+    right: 400px;
+    bottom: 40px;
+    margin-bottom: 20px;
 
 
+
+}
+#p6{
+    position: relative;
+   left:550px;
+    /* height: 50px; */
+color: rgb(185, 185, 185);
+}
+#p7{
+    position: relative;
+    left:580px;
+    /* height: 90px; */
+    color: rgb(185, 185, 185);
+}
